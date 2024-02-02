@@ -11,6 +11,8 @@ console.log("Starting upload...");
         'my-artifact',
         // files to include (supports absolute and relative paths)
         ['/usr/app/file.txt'],
+        // root directory to capture file paths from
+        '/usr/app',
         {
         // optional: how long to retain the artifact
         // if unspecified, defaults to repository/org retention settings (the limit of this value)
