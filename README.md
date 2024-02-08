@@ -1,7 +1,7 @@
-For use inside your workflows
-
-
+For use inside your workflows 
 ```cider-research/upload-artifact-action@main```
+
+It can also work as a standalone, simply by building and running this docker image
 
 **TODO:**
 <BR>
